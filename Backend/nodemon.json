@@ -1,0 +1,10 @@
+{
+  "env": {
+     "DB_USER": "ankit",
+     "DB_PASSWORD": "9vxM1xU94VfzsyL0",
+     "DB_NAME": "places2",
+     "GOOGLE_API_KEY": "",
+     "JWT_KEY": "supersecretkey_dont_share"
+  }
+
+}
